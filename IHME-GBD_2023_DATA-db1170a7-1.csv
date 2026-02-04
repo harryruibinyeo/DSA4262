@@ -1,0 +1,1393 @@
+population_group,measure,location,sex,age,cause,metric,year,val,upper,lower
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2010,0.038581682,0.051360084,0.028494219
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2010,0.040598583,0.05320765,0.026250393
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2010,0.038775028,0.052086788,0.028715977
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2010,0.045832821,0.061895616,0.033441578
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2010,0.036026279,0.040045515,0.032200766
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2010,0.041110119,0.046004732,0.036842579
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2010,0.041899711,0.048906562,0.033490983
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2010,0.042403823,0.04961486,0.036493689
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2010,0.046191801,0.052402876,0.040607989
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2010,0.035547995,0.040936006,0.030657256
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2010,0.035386096,0.042547194,0.027879501
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2010,0.0366954,0.043534329,0.030457662
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2010,0.039992662,0.046604849,0.033794744
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2010,0.036210442,0.041485397,0.030007288
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2010,0.032668195,0.038139196,0.028147369
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2010,0.04340158,0.049427246,0.0376834
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2010,0.042051743,0.04616719,0.038256449
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2010,0.046718631,0.052843942,0.039055333
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2010,0.042159395,0.048339755,0.037300019
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2010,0.047558424,0.053318933,0.042334498
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2010,0.031355154,0.034878601,0.028032359
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2010,0.02975621,0.03442844,0.024025572
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2010,0.032303729,0.037015264,0.028020048
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2010,0.036527741,0.041727265,0.032199547
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2010,0.046065084,0.051526539,0.040515861
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2010,0.046086947,0.054255308,0.036307293
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2010,0.047899988,0.056240409,0.04030547
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2010,0.050999626,0.058174883,0.044209153
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2010,0.054654553,0.059994605,0.049990784
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2010,0.05528108,0.06428386,0.045251328
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2010,0.059051109,0.066205925,0.05292614
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2010,0.061475256,0.069502871,0.055044695
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2010,0.028619491,0.032892032,0.024504743
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2010,0.01732452,0.021110494,0.013468631
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2010,0.036238049,0.043079928,0.030627576
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2010,0.030327786,0.035155121,0.025396292
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2010,0.049049973,0.053529066,0.044907066
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2010,0.051615844,0.058837956,0.041921893
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2010,0.044828882,0.050285706,0.040105559
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2010,0.058528685,0.065786032,0.052835323
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2010,0.033359652,0.038289087,0.028972834
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2010,0.019936348,0.024072252,0.015930653
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2010,0.04476873,0.053136777,0.037583386
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2010,0.034549116,0.039852199,0.029403139
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2010,0.037617265,0.043002376,0.032707966
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2010,0.024926968,0.030208127,0.019755622
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2010,0.047893961,0.057228112,0.04120391
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2010,0.039943083,0.046800264,0.033921914
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2010,0.037082232,0.041373558,0.033451511
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2010,0.032526045,0.037485524,0.026789034
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2010,0.041042393,0.047153098,0.035608692
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2010,0.040437986,0.046057076,0.035850972
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2010,0.02582409,0.028342523,0.023551041
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2010,0.03079633,0.035813537,0.024987399
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2010,0.028553553,0.032385697,0.024973573
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2010,0.026687756,0.029827094,0.023848756
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2010,0.033049896,0.039878245,0.026790511
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2010,0.022304039,0.028171552,0.015554041
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2010,0.039917125,0.049948616,0.031183307
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2010,0.036166364,0.044485423,0.029022282
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2010,0.040075556,0.045127158,0.035676289
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2010,0.033948216,0.039245458,0.027863467
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2010,0.046307146,0.054213005,0.039442502
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2010,0.042635508,0.048534509,0.037384138
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2010,0.0294515,0.035428483,0.024110502
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2010,0.021750651,0.026656783,0.016277284
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2010,0.04059369,0.049694152,0.032363421
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2010,0.03688618,0.044931542,0.030524443
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2010,0.035179292,0.039742942,0.031226521
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2010,0.021743881,0.026206886,0.017722528
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2010,0.045116752,0.053073463,0.03907044
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2010,0.037021186,0.042503351,0.031647743
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2010,0.031698439,0.035484244,0.028470573
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2010,0.031894577,0.036966755,0.026219089
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2010,0.031000657,0.03600761,0.026868206
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2010,0.037215021,0.042722611,0.032458581
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2010,0.041118498,0.045373606,0.036827952
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2010,0.045771865,0.052712074,0.037338765
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2010,0.037695512,0.043476177,0.032479397
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2010,0.048591223,0.054931881,0.04279398
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2010,0.042210136,0.048770873,0.036313902
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2010,0.041428222,0.052319867,0.032659993
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2010,0.029713406,0.038216245,0.019589558
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2010,0.050188041,0.064514341,0.03840796
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2010,0.045781456,0.058059214,0.035776183
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2011,0.03596368,0.04052433,0.031958856
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2011,0.022045488,0.025842524,0.017859625
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2011,0.04607558,0.053899013,0.040077037
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2011,0.037720955,0.043248448,0.032412546
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2011,0.04203149,0.046856008,0.037582833
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2011,0.035620854,0.041216268,0.029365918
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2011,0.048742605,0.056591698,0.042184855
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2011,0.044395266,0.05028906,0.039125998
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2010,0.025766859,0.02883721,0.023072942
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2010,0.020940987,0.024474068,0.017087031
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2010,0.027882862,0.032333883,0.023970875
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2010,0.028468415,0.03214523,0.024976591
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2010,0.034484196,0.038962197,0.030503295
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2010,0.034608786,0.040565808,0.027648963
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2010,0.035110113,0.041447175,0.030426212
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2010,0.039462737,0.045508407,0.034100762
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2010,0.042115213,0.045880153,0.038601397
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2010,0.037948548,0.042909892,0.031775473
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2010,0.041224391,0.046037447,0.036668951
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2010,0.048095713,0.053530042,0.042994199
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2011,0.025738165,0.028289663,0.023567929
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2011,0.030815686,0.035883636,0.024967752
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2011,0.02823828,0.031922894,0.02466684
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2011,0.026568942,0.029518018,0.023702308
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2011,0.031726857,0.035425163,0.028590187
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2011,0.031949755,0.03704939,0.026413525
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2011,0.030998554,0.035728645,0.027036285
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2011,0.037308247,0.042795594,0.032852535
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2010,0.037322881,0.041389494,0.033402834
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2010,0.033822661,0.039433951,0.027752723
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2010,0.043142833,0.04936441,0.037778753
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2010,0.040269941,0.045590698,0.035261632
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2010,0.026887439,0.031965839,0.022060274
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2010,0.016895083,0.021076097,0.012131669
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2010,0.034441877,0.042370355,0.027617603
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2010,0.029555075,0.035824038,0.024072833
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2010,0.043281563,0.048202618,0.03873855
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2010,0.047393981,0.055365051,0.037594562
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2010,0.043472242,0.050506833,0.037817521
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2010,0.050017841,0.056550795,0.043886461
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2010,0.026794292,0.030649128,0.023581264
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2010,0.023810926,0.028345236,0.019373343
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2010,0.027886311,0.033274773,0.023790529
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2010,0.030240904,0.035414321,0.025719265
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2011,0.042497003,0.046170157,0.039075155
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2011,0.038470899,0.043446749,0.032315999
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2011,0.041400046,0.046331616,0.036960923
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2011,0.048640886,0.053819989,0.043781138
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2011,0.029569016,0.035637477,0.024154931
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2011,0.021823139,0.02700521,0.016263175
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2011,0.040462462,0.049693658,0.032213959
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2011,0.036792691,0.044365079,0.03043156
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2011,0.033055855,0.03993674,0.026795256
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2011,0.022002103,0.027630285,0.014984531
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2011,0.039999268,0.050231124,0.031329602
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2011,0.036168332,0.04441024,0.029100908
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2011,0.042133756,0.048443125,0.036208983
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2010,0.044941222,0.053900348,0.035137482
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2010,0.047907929,0.057005899,0.03924218
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2010,0.051376459,0.060256708,0.0437091
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2011,0.035699809,0.040975797,0.030698405
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2011,0.035586641,0.042091765,0.027967053
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2011,0.036839636,0.043641818,0.030996166
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2011,0.040197345,0.046460497,0.033766292
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2011,0.04357356,0.048229142,0.038960899
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2011,0.047796267,0.055782497,0.037618876
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2011,0.043661194,0.050356653,0.038051057
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2011,0.050465753,0.057064378,0.04425198
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2011,0.041362462,0.046083083,0.03722475
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2011,0.042249385,0.049211367,0.033603384
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2011,0.04247775,0.049247629,0.036931461
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2011,0.046424951,0.052411531,0.040891945
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2011,0.052718426,0.057745649,0.048237046
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2011,0.052892045,0.06176239,0.043045845
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2011,0.056801845,0.063217635,0.051217453
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2011,0.05935773,0.067065054,0.05278886
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2012,0.042075081,0.048554948,0.036120555
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2011,0.028661352,0.033050558,0.024532955
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2011,0.017291481,0.021199039,0.0133579
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2011,0.036260144,0.042858123,0.030840235
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2011,0.030348001,0.035072528,0.025435355
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2011,0.044844337,0.053583826,0.035032779
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2011,0.047770216,0.056672906,0.039258577
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2011,0.051311765,0.060427038,0.043637137
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2011,0.026963933,0.032057424,0.022217178
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2011,0.016837318,0.020918178,0.012194451
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2011,0.03447648,0.042653411,0.027637991
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2011,0.029565572,0.03578349,0.024162026
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2011,0.036323094,0.040709592,0.03234742
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2011,0.037092282,0.043446138,0.029659279
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2011,0.036721549,0.043013931,0.031974486
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2011,0.04145297,0.047553762,0.035999932
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2011,0.041581432,0.052539216,0.032810524
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2011,0.029712002,0.037546703,0.019472652
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2011,0.050249392,0.064461664,0.038614753
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2011,0.045804567,0.058015585,0.035682758
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2011,0.037404971,0.041479844,0.033416805
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2011,0.03399014,0.039541013,0.027928455
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2011,0.043150435,0.049421887,0.037902979
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2011,0.040345566,0.045493805,0.035366231
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2012,0.037393564,0.042797277,0.032210476
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2012,0.037725144,0.044907391,0.02929764
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2012,0.038552176,0.045740569,0.032625894
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2012,0.042055806,0.048371637,0.035305022
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2012,0.028709539,0.033063532,0.024555665
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2012,0.017290855,0.021104614,0.013180654
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2012,0.036289864,0.043051768,0.030769731
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2012,0.030381891,0.035164566,0.025578128
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2011,0.026762648,0.030475425,0.023551465
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2011,0.023803634,0.028273363,0.019320733
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2011,0.027800193,0.033081011,0.023747773
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2011,0.030193086,0.035265396,0.025755483
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2011,0.039588303,0.043222734,0.036039075
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2011,0.043395625,0.048919969,0.03675194
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2011,0.03971909,0.045277468,0.035101326
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2011,0.045040996,0.050468138,0.040147082
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2011,0.032879308,0.037621627,0.028571323
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2011,0.019334756,0.023158944,0.015330771
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2011,0.044109339,0.052087091,0.037241272
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2011,0.033904975,0.03887855,0.028971869
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2011,0.025573418,0.028548064,0.022921325
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2011,0.020697034,0.024229217,0.01691778
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2011,0.027698281,0.0319089,0.02391306
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2011,0.028235935,0.031939662,0.024798363
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2012,0.041625008,0.046120054,0.037609177
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2012,0.042696311,0.04960863,0.03416295
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2012,0.042572604,0.048974109,0.037418978
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2012,0.046654539,0.052411232,0.041094499
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2013,0.028775628,0.033060268,0.024790214
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2013,0.017304017,0.021437025,0.012993821
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2013,0.036347019,0.043086909,0.030652347
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2013,0.030449724,0.035289409,0.025665757
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2013,0.040955956,0.045492688,0.03702424
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2013,0.03410656,0.040119378,0.028046928
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2013,0.047554565,0.05425344,0.042022879
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2013,0.043019988,0.048296861,0.03815318
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2012,0.035248028,0.039789035,0.031394847
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2012,0.021129019,0.025087323,0.017207247
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2012,0.045127802,0.052700143,0.039274011
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2012,0.0369049,0.04251637,0.031868487
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2011,0.044943112,0.050378322,0.039747861
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2011,0.044661914,0.052147833,0.035442684
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2011,0.046718064,0.054472656,0.039431037
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2011,0.049881859,0.057440026,0.043200223
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2012,0.044789789,0.053749689,0.034351597
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2012,0.047644071,0.056532841,0.039567988
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2012,0.051280258,0.060324855,0.043462571
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2011,0.05010616,0.054618937,0.046080472
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2011,0.054167815,0.062007653,0.044064653
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2011,0.04488446,0.04997618,0.040441492
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2011,0.060074397,0.067157467,0.0544134
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2011,0.034842124,0.038808633,0.031169533
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2011,0.038734023,0.051622256,0.028457546
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2011,0.040812987,0.053144547,0.026609948
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2011,0.03893473,0.052326593,0.028698115
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2011,0.045950716,0.062330059,0.033685447
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2011,0.0346117,0.039867705,0.028810683
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2011,0.031706599,0.037106146,0.027450096
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2011,0.042147116,0.048149927,0.036585077
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2012,0.038872272,0.051750551,0.028911739
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2012,0.041031815,0.053659627,0.026521195
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2012,0.039095563,0.052611666,0.028568296
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2012,0.046059121,0.062542189,0.033881149
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2012,0.053372515,0.05843395,0.048821553
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2012,0.053594989,0.062693743,0.043472544
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2012,0.05722691,0.063459328,0.050988042
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2012,0.059965485,0.067594361,0.052955171
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2012,0.039840928,0.044292542,0.03589101
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2012,0.033166499,0.03849702,0.027451587
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2012,0.046239353,0.053206833,0.040428352
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2012,0.042038781,0.047483013,0.037055258
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2012,0.048207618,0.053988538,0.042930411
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2012,0.048524197,0.056631466,0.037894009
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2012,0.049996113,0.05787807,0.042623006
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2012,0.053366763,0.061082636,0.046369854
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2012,0.031787683,0.035393636,0.028664091
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2012,0.032008792,0.037183336,0.026226594
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2012,0.031028496,0.035551641,0.026935929
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2012,0.037431323,0.042778523,0.033089814
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2013,0.042989376,0.049905099,0.036972166
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2011,0.031618719,0.035336853,0.02834886
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2011,0.02995509,0.034606008,0.024243883
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2011,0.032367406,0.036809973,0.028246917
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2011,0.03691665,0.042042564,0.032432126
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2013,0.034547618,0.038984023,0.03065649
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2013,0.020236115,0.023798105,0.016333558
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2013,0.044180726,0.051450549,0.038299712
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2013,0.036155958,0.041849062,0.031388584
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2012,0.042247163,0.046063684,0.038627429
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2012,0.046779849,0.052976465,0.039466139
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2012,0.042293942,0.047917205,0.037574392
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2012,0.048095751,0.053532144,0.042893409
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2012,0.029666458,0.035880657,0.024336193
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2012,0.021909477,0.027345986,0.016049998
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2012,0.04031618,0.04944403,0.032287335
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2012,0.036692842,0.044098983,0.029987862
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2012,0.033631372,0.038271374,0.029231619
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2012,0.019686765,0.023763568,0.015561128
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2012,0.045141598,0.053044538,0.038317898
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2012,0.034436787,0.039257938,0.029486111
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2013,0.035978527,0.041062329,0.031034446
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2013,0.036062351,0.043345959,0.027528132
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2013,0.0371358,0.044200629,0.03163234
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2013,0.040620416,0.047193364,0.034056352
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2011,0.036525378,0.040602056,0.033163385
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2011,0.031880477,0.036592804,0.02639822
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2011,0.040424432,0.046397323,0.035278632
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2011,0.039903276,0.045308275,0.03542267
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2012,0.035988757,0.040102672,0.032281841
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2012,0.036371824,0.041613334,0.030468989
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2012,0.03265714,0.038094308,0.028411781
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2012,0.043530696,0.0494841,0.038230146
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2012,0.026556021,0.029017045,0.024302529
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2012,0.0322461,0.037712183,0.026499299
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2012,0.028948786,0.032714277,0.025409924
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2012,0.027347794,0.030321249,0.024474224
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2012,0.031229092,0.0348511,0.02806797
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2012,0.029650998,0.034560595,0.023944516
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2012,0.032004344,0.036284059,0.027967115
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2012,0.036429342,0.041387859,0.032017258
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2013,0.041898062,0.046532481,0.037960955
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2013,0.043089121,0.050613669,0.034164882
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2013,0.042680424,0.048648261,0.037906684
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2013,0.046961827,0.052523034,0.041686204
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2012,0.042607361,0.046302519,0.039253709
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2012,0.038752815,0.043770317,0.032677943
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2012,0.041342039,0.046108226,0.037040569
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2012,0.048875168,0.053881287,0.044099001
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2012,0.051364587,0.055726846,0.047520306
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2012,0.057048163,0.065319338,0.046690569
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2012,0.04512137,0.049694581,0.04091765
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2012,0.061874068,0.068978663,0.055994131
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2013,0.055249188,0.06059837,0.05047199
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2013,0.055906218,0.06557649,0.045637475
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2013,0.058731654,0.064764847,0.052934095
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2013,0.06188005,0.069670954,0.054672224
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2013,0.031780756,0.035532717,0.028641617
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2013,0.031938353,0.037410061,0.02586434
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2013,0.031008742,0.035453569,0.026871311
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2013,0.037463797,0.042768966,0.033082926
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2012,0.043847331,0.048462653,0.039430604
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2012,0.048438214,0.056791021,0.038189463
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2012,0.0437793,0.050052581,0.038326692
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2012,0.05085446,0.057490605,0.044656348
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2013,0.026760995,0.029071223,0.02455863
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2013,0.032696831,0.038187519,0.027049808
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2013,0.028970736,0.032689473,0.025689715
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2013,0.027564082,0.030598889,0.024715362
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2013,0.029797573,0.036274072,0.024587901
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2013,0.022013061,0.027481278,0.016102045
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2013,0.040260876,0.049485691,0.032398207
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2013,0.036646851,0.044703183,0.029898013
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2012,0.033030692,0.040060999,0.026923619
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2012,0.021689669,0.027551323,0.014884677
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2012,0.040032511,0.04994069,0.031903098
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2012,0.036127528,0.043885411,0.029207046
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2013,0.03423846,0.041768916,0.028184397
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2013,0.022563133,0.028956723,0.015647644
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2013,0.041494779,0.051675432,0.0332759
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2013,0.037403701,0.045957904,0.030110438
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2012,0.036671279,0.040624681,0.033287888
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2012,0.032093445,0.036919842,0.026222106
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2012,0.0405696,0.046242925,0.035474884
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2012,0.040067962,0.045469039,0.035622303
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2014,0.043012689,0.050023324,0.036760714
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2014,0.028857398,0.033155945,0.024961599
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2014,0.017300387,0.021449997,0.013129782
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2014,0.036403883,0.042937852,0.030981703
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2014,0.030553819,0.035529435,0.026001566
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2014,0.03868818,0.044504621,0.033328397
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2014,0.039426016,0.048405696,0.030296516
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2014,0.039875552,0.047560647,0.03419675
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2014,0.043617364,0.051227564,0.036574398
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2011,0.03765545,0.043068101,0.032874583
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2011,0.024658805,0.030003835,0.019477352
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2011,0.047958708,0.056872071,0.041485036
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2011,0.039931929,0.046588964,0.034313152
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2012,0.0361964,0.041398749,0.031675649
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2012,0.022994711,0.028022449,0.018023886
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2012,0.046157889,0.054653838,0.039917821
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2012,0.038417755,0.044817903,0.032974748
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2013,0.042895143,0.046677531,0.039619596
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2013,0.039200531,0.044461455,0.033276057
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2013,0.041513332,0.045962894,0.037140501
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2013,0.049287601,0.054160203,0.044653042
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2014,0.042199457,0.047096443,0.038197473
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2014,0.043452718,0.051712181,0.034738233
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2014,0.042834392,0.048688976,0.038111002
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2014,0.047329687,0.053268521,0.041885542
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2012,0.042933377,0.047545512,0.03859157
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2012,0.04824584,0.055361863,0.039172342
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2012,0.03924571,0.045047104,0.033581158
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2012,0.050790561,0.057143321,0.044545525
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2014,0.034558315,0.03907826,0.030605819
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2014,0.019965592,0.023585814,0.015816076
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2014,0.044146197,0.051736196,0.038311957
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2014,0.036177864,0.041974705,0.03152843
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2013,0.027145355,0.032267222,0.022280693
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2013,0.016714008,0.021188089,0.011871977
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2013,0.034567268,0.042688919,0.027817152
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2013,0.029622038,0.035760758,0.024080538
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2012,0.04087351,0.051976004,0.032497231
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2012,0.028995895,0.037148333,0.018957519
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2012,0.049328875,0.0636817,0.038099043
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2012,0.0448971,0.057017218,0.035033294
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2011,0.042145224,0.046631062,0.037818343
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2011,0.047183951,0.054075446,0.038348955
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2011,0.038584879,0.044181511,0.033250549
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2011,0.049811854,0.056473495,0.043866529
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2014,0.056478815,0.062335644,0.051540191
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2014,0.057501902,0.067559099,0.046366441
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2014,0.059499297,0.066121587,0.054097295
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2014,0.063175668,0.071397835,0.055504068
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2012,0.027048451,0.032178426,0.022343342
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2012,0.016783116,0.021120899,0.012043274
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2012,0.034517777,0.042576259,0.027540229
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2012,0.029582334,0.035790695,0.024072118
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2013,0.034233211,0.038449136,0.030655677
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2013,0.034593935,0.041005816,0.02744142
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2013,0.03439445,0.039866726,0.030301661
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2013,0.039208759,0.044535922,0.034191676
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2015,0.054531132,0.060695136,0.049491997
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2015,0.055218076,0.065821941,0.04407372
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2015,0.057186375,0.064590103,0.051693386
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2015,0.061167779,0.069742369,0.053511169
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2015,0.028938269,0.033401193,0.024945135
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2015,0.017271232,0.021467863,0.013075764
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2015,0.036463437,0.043253979,0.031206327
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2015,0.030650065,0.035951232,0.026102581
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2012,0.034003246,0.038257375,0.030397263
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2012,0.03426827,0.040237203,0.027454588
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2012,0.034291847,0.039977104,0.030134561
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2012,0.038950748,0.04453945,0.033743783
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2013,0.040850958,0.054440559,0.030245608
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2013,0.043548964,0.056996478,0.028404295
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2013,0.041037832,0.055664463,0.029935747
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2013,0.048248723,0.066664167,0.035531388
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2013,0.037211127,0.041184176,0.033440844
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2013,0.033974255,0.039637832,0.027853609
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2013,0.042691624,0.048541968,0.037583676
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2013,0.040215853,0.045073135,0.035654233
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2013,0.044152868,0.048973977,0.039749493
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2013,0.049061491,0.057900618,0.039149226
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2013,0.043948671,0.049961173,0.038850485
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2013,0.051276824,0.057517015,0.045437661
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2013,0.033108239,0.037613344,0.028778118
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2013,0.019128605,0.022935248,0.01498034
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2013,0.044363858,0.052176567,0.037759496
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2013,0.033784944,0.038645763,0.028870743
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2012,0.03712107,0.040971636,0.033198918
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2012,0.033752992,0.039263247,0.027560702
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2012,0.042736419,0.048944093,0.037570918
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2012,0.040067106,0.044981455,0.035339019
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2013,0.04100163,0.052288531,0.032745573
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2013,0.028974409,0.037040914,0.018825064
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2013,0.049388476,0.063614245,0.03826644
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2013,0.04493397,0.057478899,0.034949734
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2013,0.047731078,0.053618817,0.042292036
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2013,0.048009661,0.056818178,0.037618695
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2013,0.04936228,0.057265128,0.042621397
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2013,0.052819446,0.060129745,0.045988304
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2014,0.041315725,0.046088396,0.037305163
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2014,0.034446349,0.04075465,0.028412089
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2014,0.047835106,0.054633735,0.042354249
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2014,0.043294375,0.049188353,0.038404585
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2013,0.041758651,0.046558028,0.037448824
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2013,0.046591048,0.054101811,0.038278597
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2013,0.03823981,0.044013785,0.032824158
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2013,0.049520871,0.055306153,0.043646781
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2012,0.025053153,0.02807727,0.022496262
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2012,0.020089561,0.023635572,0.016391324
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2012,0.027159821,0.031112799,0.023560944
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2012,0.027667065,0.031138667,0.024275145
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2015,0.040864026,0.045869259,0.036624724
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2015,0.034030353,0.040934638,0.028353827
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2015,0.047142312,0.054267315,0.041802875
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2015,0.042755907,0.048683162,0.037325897
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2015,0.034551168,0.03932063,0.030742753
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2015,0.019808969,0.023812562,0.015570053
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2015,0.044112238,0.05158642,0.038289716
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2015,0.036196507,0.042093281,0.031372702
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2012,0.02628011,0.029985833,0.02314054
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2012,0.023281551,0.027692214,0.019002716
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2012,0.027256064,0.032230136,0.023291181
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2012,0.029658882,0.034720871,0.025333941
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2016,0.034584244,0.03954545,0.03076661
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2016,0.019755726,0.023838967,0.01571107
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2016,0.044098688,0.051527199,0.03815131
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2016,0.036298586,0.042004282,0.031454233
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2013,0.045964874,0.05543231,0.035289607
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2013,0.048558576,0.057461285,0.040770656
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2013,0.05234971,0.061348518,0.043982523
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2013,0.040623273,0.044430422,0.037283176
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2013,0.044397428,0.050617418,0.037420337
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2013,0.040725828,0.046054627,0.036502105
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2013,0.046493424,0.051651784,0.041605255
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2013,0.026161058,0.029229827,0.023462276
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2013,0.021317967,0.025098898,0.017247556
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2013,0.028386272,0.032737646,0.024839466
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2013,0.028760611,0.03240779,0.025283439
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2013,0.026943864,0.030720519,0.023792674
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2013,0.024103233,0.028811475,0.019952879
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2013,0.027872206,0.032781599,0.024057066
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2013,0.030345881,0.035505723,0.026202316
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2014,0.046029339,0.055818241,0.035380859
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2014,0.048502232,0.05766096,0.041005614
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2014,0.052412678,0.061382246,0.044146898
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2013,0.052261964,0.056550075,0.048476701
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2013,0.059412844,0.068703268,0.049305438
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2013,0.045018759,0.049407149,0.041152665
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2013,0.063298785,0.069976025,0.057610699
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2016,0.043640332,0.051311944,0.037163354
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2015,0.043076811,0.050400559,0.036675987
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2014,0.040833724,0.054397463,0.030118899
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2014,0.043469377,0.056894685,0.027561869
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2014,0.041127326,0.05644875,0.030249496
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2014,0.048213837,0.067052648,0.035508815
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2016,0.039648759,0.046348195,0.034269209
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2016,0.04067251,0.050964801,0.031794323
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2016,0.040743189,0.048912633,0.034810905
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2016,0.044732846,0.053738306,0.037152678
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2016,0.030195868,0.034932304,0.026085546
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2016,0.018365498,0.022604817,0.013953768
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2016,0.037965233,0.044953917,0.032711378
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2016,0.031937176,0.037465815,0.027059626
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2015,0.037092534,0.043254726,0.032001014
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2015,0.03747054,0.046692743,0.029129313
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2015,0.038263245,0.045908344,0.032688902
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2015,0.041951963,0.050102643,0.035020581
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2013,0.034355928,0.038306865,0.030800224
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2013,0.034145436,0.039205068,0.028589031
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2013,0.031326589,0.036522561,0.026960196
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2013,0.041742012,0.047503308,0.036791941
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2015,0.042513858,0.047895345,0.037987168
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2015,0.043775734,0.05228866,0.035688694
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2015,0.043029858,0.049342159,0.038037589
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2015,0.047705928,0.053966426,0.041571936
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2013,0.031561696,0.035151893,0.028557873
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2013,0.030048429,0.035459961,0.024228609
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2013,0.032241773,0.036783458,0.02811993
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2013,0.036850553,0.04161917,0.032638248
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2014,0.037117212,0.04116225,0.033331734
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2014,0.033991114,0.039753498,0.028101203
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2014,0.042397006,0.048185483,0.037402392
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2014,0.040207207,0.045508074,0.035744741
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2014,0.026837251,0.029371144,0.024738021
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2014,0.032791229,0.038336188,0.027415628
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2014,0.028852996,0.032645035,0.025727885
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2014,0.027702893,0.03067753,0.025151144
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2014,0.029978011,0.036769374,0.024859744
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2014,0.022134843,0.028006632,0.016139528
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2014,0.040297979,0.049967571,0.032462002
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2014,0.036658167,0.045576353,0.029528335
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2016,0.042835307,0.048219133,0.038097824
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2016,0.044126715,0.053267955,0.035747253
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2016,0.043224178,0.049746657,0.038376976
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2016,0.048082766,0.054643936,0.041487935
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2014,0.031910269,0.03581305,0.028586128
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2014,0.032021548,0.038234194,0.026040743
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2014,0.031136162,0.035719932,0.027084953
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2014,0.037630179,0.042724632,0.032982614
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2016,0.059858717,0.066854424,0.054322558
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2016,0.061537001,0.073739357,0.049348016
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2016,0.062340517,0.070722711,0.056154369
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2016,0.067042337,0.076769527,0.058546376
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2014,0.040745471,0.044756394,0.037355589
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2014,0.04435776,0.050916716,0.037779492
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2014,0.040865492,0.046205093,0.036848383
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2014,0.04673781,0.051779659,0.041854988
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2014,0.034462377,0.042186698,0.028466832
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2014,0.022495062,0.029287145,0.015549988
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2014,0.041810326,0.052856652,0.033963008
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2014,0.037661675,0.046700426,0.030103974
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2014,0.045686771,0.051648282,0.040461814
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2014,0.045500335,0.054542112,0.035974876
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2014,0.047180512,0.054948975,0.041082378
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2014,0.050644703,0.058339353,0.044262865
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2013,0.036169815,0.04011318,0.033009509
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2013,0.031718324,0.03656087,0.026228685
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2013,0.039912114,0.045377209,0.03501371
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2013,0.039565989,0.044647354,0.035309013
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2016,0.041165259,0.046299588,0.03691731
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2016,0.034600019,0.041604152,0.028791845
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2016,0.047108173,0.054553468,0.041972006
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2016,0.043110745,0.049271836,0.037458214
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2014,0.032665595,0.037204962,0.028446236
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2014,0.018625922,0.022468446,0.014196134
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2014,0.043654343,0.051568133,0.037249208
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2014,0.033278047,0.038237755,0.028589972
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2014,0.053658999,0.057641784,0.049903011
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2014,0.06237311,0.072086024,0.052337281
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2014,0.045292816,0.049568351,0.041631143
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2014,0.065357586,0.071201316,0.059413261
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2017,0.039376432,0.046273825,0.033969945
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2017,0.040348139,0.050764491,0.030718567
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2017,0.040381151,0.048604763,0.034517653
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2017,0.044462086,0.053408687,0.037120245
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2015,0.033624806,0.041404353,0.027554604
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2015,0.021325282,0.027473673,0.014748387
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2015,0.040902712,0.052073268,0.033327908
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2015,0.036820221,0.046065628,0.029515761
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2017,0.056717688,0.063588827,0.051112966
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2017,0.058169699,0.069991354,0.046984606
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2017,0.058748366,0.067099203,0.052712521
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2017,0.063707372,0.073767594,0.055246585
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2014,0.04313033,0.046910271,0.039882673
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2014,0.039591054,0.04546959,0.033577117
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2014,0.041694063,0.046564058,0.037519106
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2014,0.04962566,0.054589367,0.044894253
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2014,0.034487717,0.038940252,0.030850502
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2014,0.034891342,0.041692864,0.028071293
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2014,0.034541003,0.039973127,0.030505795
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2014,0.039491,0.045203648,0.034490579
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2013,0.036128883,0.041474287,0.031612251
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2013,0.022632744,0.027405559,0.017274165
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2013,0.046063397,0.054307674,0.039808517
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2013,0.038328619,0.044816192,0.032972281
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2015,0.026986308,0.02978429,0.024777562
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2015,0.032979005,0.039011176,0.027431873
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2015,0.028814466,0.03299627,0.025885628
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2015,0.027939192,0.03110468,0.025122204
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2015,0.030867107,0.034752171,0.02749838
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2015,0.030545027,0.036700145,0.024998411
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2015,0.030139528,0.034876029,0.026386099
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2015,0.036512948,0.041880142,0.031848943
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2014,0.044514317,0.049555891,0.040060682
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2014,0.04950794,0.059356416,0.039273593
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2014,0.044225037,0.050222421,0.039298748
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2014,0.05172471,0.058269203,0.045517672
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2014,0.027245476,0.032513941,0.022556975
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2014,0.016635307,0.021214996,0.011649634
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2014,0.034618867,0.042847578,0.028123274
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2014,0.029684736,0.035999429,0.024418534
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2015,0.043396711,0.047401964,0.03990738
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2015,0.04004697,0.046499688,0.033542618
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2015,0.041945192,0.046865795,0.037787857
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2015,0.050012985,0.055180312,0.045050833
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2017,0.029071423,0.033653195,0.025059353
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2017,0.017212983,0.021397786,0.013159734
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2017,0.036498465,0.043373939,0.031452312
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2017,0.03082419,0.036395075,0.025940709
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2014,0.035582357,0.039612317,0.031984836
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2017,0.041431775,0.046675295,0.037128455
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2017,0.035105102,0.041966696,0.029162072
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2017,0.047049244,0.054574196,0.041852908
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2017,0.04344569,0.049827692,0.037585761
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2014,0.031364108,0.035058326,0.028263877
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2014,0.029733914,0.035493309,0.023877062
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2014,0.031979306,0.036722565,0.027999215
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2014,0.036658952,0.041414863,0.032498388
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2015,0.027341767,0.03282131,0.022755598
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2015,0.016553506,0.02143416,0.011829566
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2015,0.034684743,0.043194848,0.028300676
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2015,0.029755333,0.03647826,0.024307842
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2014,0.035914169,0.041418473,0.029817964
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2014,0.03241356,0.037680053,0.028038353
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2014,0.043200282,0.048960266,0.038284402
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2015,0.044886573,0.050240702,0.039919952
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2015,0.049868409,0.059964546,0.040388446
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2015,0.044516854,0.051081375,0.039592442
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2015,0.052148826,0.058767689,0.045357052
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2015,0.035581551,0.040308119,0.031569116
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2015,0.036277803,0.043792201,0.029134987
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2015,0.035467875,0.040856161,0.031107056
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2015,0.040641327,0.046991202,0.034852527
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2015,0.046157649,0.057432288,0.035942035
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2015,0.048530467,0.058372324,0.040890846
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2015,0.052548882,0.062730705,0.043806653
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2015,0.037781536,0.041936197,0.033890512
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2015,0.034823117,0.041430962,0.029376203
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2015,0.043013814,0.049143274,0.038146357
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2015,0.040904252,0.04617758,0.036283791
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2015,0.032795394,0.037571323,0.02853044
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2015,0.01851771,0.022349479,0.014400116
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2015,0.043767597,0.051796546,0.037802527
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2015,0.033349035,0.038632635,0.028701013
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2015,0.049079265,0.05595092,0.043172148
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2015,0.049483511,0.060166366,0.039887338
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2015,0.050547262,0.059170978,0.044327041
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2015,0.05424895,0.062682591,0.046363361
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2015,0.030136682,0.03733451,0.02500085
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2015,0.022216136,0.028453774,0.016091864
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2015,0.040333821,0.050343068,0.032722687
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2015,0.036662388,0.046013237,0.029683743
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2015,0.042899763,0.04735344,0.03899916
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2015,0.047124034,0.054087431,0.040562159
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2015,0.04294458,0.048451377,0.038432528
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2015,0.049151023,0.054762157,0.043292765
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2015,0.04012616,0.053936528,0.029589786
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2015,0.042387393,0.055751575,0.026602997
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2015,0.040595185,0.056591021,0.030114538
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2015,0.04746568,0.066109273,0.034663365
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2015,0.054659611,0.05871116,0.05058472
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2015,0.064671123,0.075431665,0.053763184
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2015,0.045294852,0.049475724,0.041550975
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2015,0.066966403,0.072441772,0.060671063
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2014,0.035789386,0.039847145,0.032735838
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2014,0.031476548,0.036792376,0.025659774
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2014,0.039345783,0.044809875,0.034855214
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2014,0.039194647,0.044346086,0.034932901
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2014,0.035441095,0.040733808,0.030995794
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2014,0.021822964,0.026656931,0.016781712
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2014,0.045148441,0.053408128,0.038646187
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2014,0.037616722,0.044033185,0.032240321
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2015,0.034800248,0.040199,0.030305914
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2015,0.021103421,0.025621417,0.016168961
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2015,0.044295315,0.052650065,0.037729452
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2015,0.036956866,0.043677884,0.031683624
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2017,0.03459189,0.039648906,0.030693024
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2017,0.019723145,0.02393432,0.015639777
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2017,0.044051792,0.051493299,0.037986405
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2017,0.03636975,0.041974554,0.031298198
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2017,0.044012765,0.051757182,0.037389556
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2014,0.043565842,0.048557694,0.038944676
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2014,0.049050182,0.057556193,0.039884247
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2014,0.039836756,0.046040882,0.034654223
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2014,0.051544426,0.058285972,0.045775975
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2014,0.041120792,0.052674792,0.033033191
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2014,0.028970271,0.037225004,0.019190638
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2014,0.049457111,0.063878815,0.03887924
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2014,0.044984341,0.057753347,0.035106291
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2017,0.043167558,0.048803079,0.038320498
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2017,0.044427872,0.053668914,0.036394771
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2017,0.043417116,0.050137292,0.038643773
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2017,0.048463622,0.055163774,0.041893558
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2016,0.034397022,0.042460599,0.028410833
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2016,0.021725079,0.028141573,0.0150129
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2016,0.04185402,0.053463025,0.033867043
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2016,0.037723939,0.047817132,0.030189798
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2015,0.041246584,0.052985961,0.033313753
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2015,0.029013537,0.038092734,0.01909373
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2015,0.049559286,0.064550064,0.039088961
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2015,0.045067559,0.058123998,0.035073671
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2015,0.04245309,0.047567715,0.037838689
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2015,0.047540114,0.056682823,0.039256956
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2015,0.03890689,0.04548851,0.034260777
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2015,0.050256906,0.05736554,0.043968228
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2016,0.026327127,0.02917832,0.024009726
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2016,0.03195544,0.03766671,0.026860885
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2016,0.027918393,0.032042824,0.024873019
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2016,0.027394761,0.030696584,0.024414224
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2016,0.045225191,0.050800746,0.040151374
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2016,0.050185295,0.060940257,0.040376682
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2016,0.044783211,0.051498476,0.039687498
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2016,0.052472369,0.059626946,0.045294427
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2018,0.034623221,0.039769819,0.030692505
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2018,0.019734268,0.024091881,0.015718082
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2018,0.044012706,0.051529508,0.037889725
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2018,0.036477181,0.042388359,0.031388027
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2016,0.032033632,0.036000165,0.028476987
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2016,0.032121781,0.038864045,0.026460619
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2016,0.031292657,0.036296518,0.027406692
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2016,0.037707906,0.04316831,0.032719593
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2016,0.046929798,0.058420769,0.036608521
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2016,0.049109091,0.059092578,0.041563299
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2016,0.053254362,0.064549788,0.044104871
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2016,0.043790063,0.047690014,0.040211986
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2016,0.040770766,0.047833178,0.034213687
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2016,0.042365018,0.04731061,0.037991589
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2016,0.050502584,0.055711844,0.045451522
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2016,0.042949954,0.058162969,0.031348831
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2016,0.045767285,0.06009377,0.028483968
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2016,0.043425576,0.06101899,0.031958282
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2016,0.050676782,0.071478782,0.036823685
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2014,0.026067989,0.029777904,0.023014997
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2014,0.022997144,0.02785983,0.01908512
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2014,0.026957,0.031851423,0.023264479
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2014,0.02943706,0.034601358,0.025336488
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2014,0.025249806,0.028261147,0.022693485
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2014,0.020308287,0.024211915,0.01652417
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2014,0.02733501,0.031471181,0.02398336
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2014,0.027822715,0.031506801,0.024431111
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2015,0.02665513,0.030420054,0.023528164
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2015,0.023629903,0.02870461,0.019479934
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2015,0.02754416,0.032386224,0.023676238
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2015,0.030088566,0.03536787,0.025820054
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2016,0.030299011,0.037526504,0.025139995
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2016,0.022259684,0.028874211,0.016220136
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2016,0.040346704,0.050422856,0.032672148
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2016,0.036697507,0.046105385,0.02971027
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2018,0.029701511,0.03449131,0.025654455
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2018,0.017532311,0.021877839,0.013497447
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2018,0.037223343,0.044363193,0.031820837
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2018,0.03148743,0.037231174,0.026515777
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2016,0.032885918,0.037779706,0.028678258
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2016,0.018483122,0.022499418,0.014378357
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2016,0.043749508,0.051657162,0.03774402
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2016,0.033479524,0.038894729,0.028722376
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2018,0.043825087,0.051488977,0.037480799
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2016,0.027405661,0.033005743,0.022972069
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2016,0.016456239,0.021699196,0.011735282
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2016,0.034700007,0.043455347,0.028111117
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2016,0.029823832,0.036825939,0.024251496
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2016,0.037921547,0.042136164,0.034129192
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2016,0.035136125,0.041823964,0.029462786
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2016,0.042937903,0.049184354,0.038043365
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2016,0.041143864,0.046625202,0.036344503
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2015,0.025913159,0.029117079,0.023228349
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2015,0.021067769,0.025452452,0.017043025
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2015,0.028028561,0.032435026,0.024589089
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2015,0.02846858,0.032428676,0.024803457
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2016,0.046428307,0.052922396,0.040961935
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2016,0.04636732,0.056763357,0.037416248
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2016,0.047698735,0.056023431,0.041973553
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2016,0.051421625,0.059799691,0.043639513
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2016,0.041989512,0.046425924,0.038103205
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2016,0.045829777,0.053296037,0.039477961
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2016,0.042032753,0.047717246,0.037560536
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2016,0.048182307,0.054006984,0.042215661
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2016,0.034912384,0.039693523,0.030913502
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2016,0.035375907,0.042888105,0.028513192
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2016,0.034773999,0.040187703,0.030564729
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2016,0.039914175,0.046119387,0.034079075
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2016,0.056128097,0.060070124,0.052191875
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2016,0.067258923,0.079290053,0.056343069
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2016,0.045772467,0.049862788,0.0422231
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2016,0.069126981,0.074233895,0.062791259
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2015,0.035497683,0.039637413,0.032150598
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2015,0.035753737,0.041832712,0.030055484
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2015,0.032415613,0.038027152,0.028224114
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2015,0.043182814,0.049070504,0.038128486
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2018,0.043502256,0.049168745,0.038684647
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2018,0.044724572,0.053773276,0.036117967
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2018,0.043634622,0.050714679,0.038647151
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2018,0.048853922,0.055815743,0.042189273
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2015,0.03117159,0.035025419,0.027895834
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2015,0.029483256,0.035486148,0.024078781
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2015,0.031761592,0.036761629,0.027954096
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2015,0.036420066,0.041633677,0.031792311
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2018,0.039939978,0.046992164,0.034430998
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2018,0.041018074,0.0521076,0.030631477
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2018,0.040835566,0.049567615,0.034969265
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2018,0.045102226,0.053996832,0.037536236
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2018,0.059322146,0.066483928,0.053347669
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2018,0.061548781,0.07453808,0.050491762
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2018,0.060950182,0.069091858,0.054869591
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2018,0.066610714,0.076734241,0.057706397
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2019,0.043824745,0.049570008,0.039071949
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2019,0.044989333,0.054120657,0.036480153
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2019,0.043837817,0.050953343,0.038562744
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2019,0.049253018,0.056188717,0.042430232
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2019,0.029752718,0.034571299,0.025804738
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2019,0.0173891,0.021439651,0.013350764
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2019,0.037207913,0.044606857,0.031466325
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2019,0.031546053,0.037418262,0.026938765
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2015,0.036027393,0.040141092,0.032704846
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2015,0.031849922,0.037346398,0.026408819
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2015,0.039486068,0.045237798,0.034834386
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2015,0.039459706,0.044771151,0.035088812
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2019,0.039234933,0.046284144,0.03386302
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2019,0.040021192,0.051021668,0.030910876
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2019,0.040044598,0.048794662,0.034115201
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2019,0.044423255,0.053539611,0.037142963
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2019,0.057450319,0.064434739,0.051524911
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2019,0.059428723,0.07176957,0.049049763
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2019,0.058717922,0.067198887,0.052746039
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2019,0.064725475,0.074144193,0.055892808
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2018,0.041713147,0.047104735,0.037340699
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2018,0.035686593,0.042622352,0.029490052
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2018,0.046897028,0.054335714,0.041662587
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2018,0.043881011,0.050401362,0.037916725
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2019,0.034689506,0.039851208,0.030791298
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2019,0.019801805,0.02410991,0.015872323
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2019,0.043996774,0.0515452,0.037825309
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2019,0.036631821,0.042859096,0.031404997
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2019,0.04374764,0.049434865,0.039416607
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2019,0.038267901,0.045575054,0.031408667
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2019,0.048522357,0.055848206,0.042864004
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2019,0.046181901,0.053134798,0.039816496
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2017,0.027665331,0.030663499,0.025194633
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2017,0.033672794,0.040132027,0.028347464
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2017,0.029023192,0.033586961,0.025791568
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2017,0.02883609,0.032312394,0.025470546
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2017,0.031501336,0.035444409,0.027990905
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2017,0.031570784,0.038179328,0.02590764
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2017,0.030890876,0.035976839,0.026914448
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2017,0.036919075,0.042192638,0.032144731
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2017,0.033788603,0.041726079,0.028129921
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2017,0.021112875,0.027644004,0.014457246
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2017,0.041132335,0.052799738,0.033493772
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2017,0.037104006,0.047245557,0.029687703
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2017,0.043743075,0.047685122,0.040058358
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2017,0.041071496,0.048737936,0.034657784
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2017,0.042350944,0.047285417,0.037867625
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2017,0.050496774,0.055870315,0.045237444
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2017,0.045560636,0.051150678,0.040453814
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2017,0.050401473,0.061107762,0.041212276
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2017,0.045046517,0.052135617,0.039965744
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2017,0.052717423,0.060137033,0.045354286
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2016,0.042490415,0.047584341,0.037952316
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2016,0.047580378,0.056723208,0.039249462
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2016,0.039023102,0.045836137,0.034321977
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2016,0.050303978,0.057806126,0.043440692
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2016,0.03483847,0.040415358,0.030295733
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2016,0.021009956,0.025571859,0.016238507
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2016,0.044269936,0.052584224,0.037747994
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2016,0.037024588,0.043858317,0.03177822
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2017,0.047524152,0.059384783,0.036037127
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2017,0.049287368,0.059576652,0.041714573
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2017,0.053714975,0.06517571,0.044094337
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2016,0.031351166,0.035352688,0.02798071
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2016,0.029658981,0.035698459,0.024334269
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2016,0.0318814,0.037173862,0.028230266
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2016,0.036616693,0.04224684,0.031839788
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2016,0.041301206,0.052965546,0.033373072
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2016,0.028943431,0.038029996,0.018871973
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2016,0.049568536,0.064852855,0.039090203
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2016,0.045111519,0.057974108,0.03523112
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2016,0.026767807,0.030553132,0.023587754
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2016,0.023776182,0.028987757,0.019338327
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2016,0.027621016,0.032536694,0.023692713
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2016,0.030243102,0.035665021,0.025842746
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2017,0.040256347,0.054847507,0.02969614
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2017,0.042302469,0.055414597,0.026528851
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2017,0.040853066,0.05772339,0.029806632
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2017,0.047576724,0.066649832,0.03482129
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2016,0.036310893,0.040601949,0.032899936
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2016,0.032282235,0.038339174,0.026937586
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2016,0.039569583,0.045575136,0.035252322
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2016,0.039821643,0.045171127,0.035143344
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2016,0.025536898,0.028766133,0.022882259
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2016,0.020708728,0.025201811,0.016867904
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2016,0.027517612,0.031894071,0.024222488
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2016,0.028135475,0.032153043,0.024415847
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2017,0.030458007,0.037582811,0.025274736
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2017,0.022246878,0.028561358,0.016037483
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2017,0.04035775,0.050810729,0.032727529
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2017,0.036732506,0.046241287,0.029656542
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2016,0.035631826,0.039807623,0.032180596
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2016,0.035751317,0.041832949,0.030163798
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2016,0.032633562,0.038255901,0.028392751
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2016,0.043408542,0.049396428,0.038138972
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2020,0.039575429,0.044810032,0.035245936
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2020,0.024280369,0.029321761,0.019531266
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2020,0.049978414,0.058514825,0.043145781
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2020,0.041607947,0.048499589,0.035900265
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2019,0.044206803,0.052106042,0.037849428
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2020,0.052314862,0.061410302,0.044880473
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2020,0.033873925,0.039147854,0.029740142
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2020,0.021057403,0.025837691,0.015989376
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2020,0.042242801,0.050372332,0.036034766
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2020,0.035669673,0.042086372,0.030639576
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2020,0.052317498,0.05918509,0.046833836
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2020,0.055352653,0.067155861,0.044394512
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2020,0.052203639,0.060691129,0.045296443
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2020,0.058367851,0.066736217,0.050131085
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2017,0.027462451,0.033080817,0.023066778
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2017,0.016331137,0.021366641,0.011709294
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2017,0.03472178,0.043403347,0.028045754
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2017,0.029894805,0.037096641,0.024109921
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2020,0.046745397,0.055578616,0.040343527
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2020,0.049277337,0.062478102,0.038239989
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2020,0.047515032,0.057932015,0.039644955
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2020,0.052429371,0.063535813,0.043901222
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2017,0.032980348,0.037965231,0.028855631
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2017,0.018475457,0.022746401,0.014578363
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2017,0.043746416,0.051700891,0.037651054
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2017,0.03361942,0.039217835,0.028785384
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2020,0.069441187,0.079043157,0.062438501
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2020,0.073577682,0.088311694,0.059926825
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2020,0.070735449,0.080828363,0.062250748
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2020,0.077601615,0.089520871,0.067083655
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2017,0.035205279,0.040118242,0.031057583
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2017,0.035654909,0.043323273,0.028822092
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2017,0.035015556,0.040632492,0.030758673
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2017,0.040252306,0.046409604,0.034147688
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2017,0.034874116,0.040442154,0.030384604
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2017,0.020878708,0.02577213,0.016208526
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2017,0.044254068,0.052548716,0.03791564
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2017,0.037088216,0.043842833,0.031562726
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2017,0.037859421,0.042068314,0.034186567
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2017,0.035212999,0.041997413,0.028949817
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2017,0.04265917,0.049030721,0.03778825
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2017,0.041176912,0.046786435,0.036163032
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2017,0.041318768,0.052641135,0.033242327
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2017,0.028733591,0.037810366,0.018972249
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2017,0.049544137,0.064913294,0.039257831
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2017,0.045126756,0.058169436,0.035278122
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2017,0.043511732,0.048269783,0.039450873
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2017,0.047653531,0.055784944,0.040703574
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2017,0.043521323,0.04965664,0.038960454
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2017,0.049933633,0.056183782,0.043993408
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2017,0.056317473,0.060182614,0.052392526
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2017,0.067778223,0.079739573,0.056942934
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2017,0.045182887,0.049256037,0.04157543
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2017,0.069852313,0.074918429,0.063609838
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2017,0.046686764,0.053481999,0.040983268
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2017,0.046703131,0.057794326,0.037671631
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2017,0.047801505,0.056262196,0.041927888
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2017,0.051661842,0.060557673,0.043666531
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2020,0.052141106,0.059030484,0.046763905
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2020,0.047683566,0.056974463,0.039148067
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2020,0.057179963,0.065811719,0.049941549
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2020,0.054852141,0.06275518,0.047122263
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2017,0.043835982,0.049371154,0.038980333
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2017,0.049460892,0.059370174,0.0411269
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2017,0.040274769,0.047514668,0.035251064
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2017,0.051849943,0.059894546,0.044474568
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2018,0.034505255,0.042654924,0.028867057
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2018,0.021802664,0.028567607,0.015020215
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2018,0.041918445,0.053785654,0.034221132
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2018,0.037903774,0.048283299,0.030233898
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2017,0.027415143,0.031321649,0.024204028
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2017,0.024599074,0.030342144,0.019826987
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2017,0.028219476,0.033216232,0.024439443
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2017,0.030953895,0.036593512,0.026183104
+All Population,Prevalence,Israel,Both,All ages,Depressive disorders,Percent,2021,0.053318,0.062331777,0.045484534
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2017,0.025506299,0.02862266,0.022799056
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2017,0.02074651,0.025325629,0.016923438
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2017,0.027396233,0.031851024,0.024218417
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2017,0.028143336,0.032369936,0.024387098
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2018,0.048942765,0.055013989,0.043316267
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2018,0.054564239,0.065560351,0.043977641
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2018,0.048179055,0.055702475,0.042918038
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2018,0.056224746,0.063740326,0.048435896
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2018,0.047356126,0.059387789,0.035532443
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2018,0.048924609,0.059389793,0.041439769
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2018,0.053498087,0.064765802,0.044116592
+All Population,Prevalence,Luxembourg,Both,All ages,Depressive disorders,Percent,2021,0.052681618,0.059706688,0.047100831
+All Population,Prevalence,Luxembourg,Both,10-19 years,Depressive disorders,Percent,2021,0.055425359,0.066052917,0.044451685
+All Population,Prevalence,Luxembourg,Both,55+ years,Depressive disorders,Percent,2021,0.05242682,0.061362398,0.045123633
+All Population,Prevalence,Luxembourg,Both,20-54 years,Depressive disorders,Percent,2021,0.058854689,0.067110471,0.050178911
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2018,0.026351061,0.029283683,0.023985644
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2018,0.031568157,0.03767065,0.026255492
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2018,0.027441409,0.031912401,0.024307668
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2018,0.027604493,0.031196477,0.024341934
+All Population,Prevalence,Belgium,Both,All ages,Depressive disorders,Percent,2021,0.045567391,0.054040859,0.03928957
+All Population,Prevalence,Belgium,Both,10-19 years,Depressive disorders,Percent,2021,0.047650509,0.059766161,0.036744144
+All Population,Prevalence,Belgium,Both,55+ years,Depressive disorders,Percent,2021,0.046137086,0.055966833,0.038261883
+All Population,Prevalence,Belgium,Both,20-54 years,Depressive disorders,Percent,2021,0.051233306,0.061916586,0.042941935
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2018,0.030231518,0.034104944,0.026977648
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2018,0.030029335,0.036361707,0.024297191
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2018,0.02984001,0.035067924,0.025930458
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2018,0.035305881,0.04047952,0.030598987
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2017,0.031550615,0.035707668,0.02810718
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2017,0.029798882,0.036084164,0.024280357
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2017,0.032002707,0.037442057,0.028473149
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2017,0.036836072,0.042761435,0.031846616
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2018,0.043688082,0.047858349,0.040076766
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2018,0.041419483,0.049127869,0.034976428
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2018,0.04233849,0.047559143,0.037868817
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2018,0.050468017,0.056125767,0.044579071
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2018,0.042373346,0.057779501,0.03151058
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2018,0.044742002,0.059017443,0.02874229
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2018,0.042923015,0.060767778,0.031048652
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2018,0.049907849,0.069511541,0.036596957
+All Population,Prevalence,Slovenia,Both,All ages,Depressive disorders,Percent,2021,0.033889295,0.03926745,0.029553841
+All Population,Prevalence,Slovenia,Both,10-19 years,Depressive disorders,Percent,2021,0.020847512,0.025787236,0.016213297
+All Population,Prevalence,Slovenia,Both,55+ years,Depressive disorders,Percent,2021,0.04214788,0.050755297,0.035969896
+All Population,Prevalence,Slovenia,Both,20-54 years,Depressive disorders,Percent,2021,0.035740625,0.042176672,0.030411783
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2017,0.038405393,0.042873006,0.034741588
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2017,0.034702668,0.041436531,0.02859746
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2017,0.041564176,0.047896248,0.037005051
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2017,0.042046712,0.047716372,0.036684402
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2018,0.030632906,0.037809342,0.025415872
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2018,0.022206696,0.028928879,0.016135992
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2018,0.040360188,0.051041299,0.032491802
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2018,0.036790682,0.046352214,0.029680762
+All Population,Prevalence,Netherlands,Both,All ages,Depressive disorders,Percent,2021,0.070112084,0.079806941,0.062749441
+All Population,Prevalence,Netherlands,Both,10-19 years,Depressive disorders,Percent,2021,0.073855526,0.088652327,0.060461164
+All Population,Prevalence,Netherlands,Both,55+ years,Depressive disorders,Percent,2021,0.071070813,0.081916548,0.062139849
+All Population,Prevalence,Netherlands,Both,20-54 years,Depressive disorders,Percent,2021,0.078413263,0.090540971,0.067716686
+All Population,Prevalence,Latvia,Both,All ages,Depressive disorders,Percent,2021,0.040833183,0.046191252,0.036327611
+All Population,Prevalence,Latvia,Both,10-19 years,Depressive disorders,Percent,2021,0.025387795,0.030601833,0.02047158
+All Population,Prevalence,Latvia,Both,55+ years,Depressive disorders,Percent,2021,0.05149448,0.060519135,0.0440873
+All Population,Prevalence,Latvia,Both,20-54 years,Depressive disorders,Percent,2021,0.04294943,0.049741532,0.036943495
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2017,0.036277482,0.040572582,0.032639869
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2017,0.03640449,0.042865093,0.030957789
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2017,0.033269104,0.03896541,0.02886122
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2017,0.044234201,0.049948289,0.038552968
+All Population,Prevalence,Portugal,Both,All ages,Depressive disorders,Percent,2021,0.051091395,0.057795957,0.045591443
+All Population,Prevalence,Portugal,Both,10-19 years,Depressive disorders,Percent,2021,0.046680155,0.055236023,0.037970531
+All Population,Prevalence,Portugal,Both,55+ years,Depressive disorders,Percent,2021,0.055592038,0.064476855,0.047974353
+All Population,Prevalence,Portugal,Both,20-54 years,Depressive disorders,Percent,2021,0.054039028,0.061727828,0.046404505
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2019,0.033119199,0.041062355,0.027734951
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2019,0.020412519,0.026844297,0.014273472
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2019,0.040248541,0.051473967,0.032719204
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2019,0.03649035,0.046850651,0.029403603
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2018,0.033025027,0.038059878,0.028884719
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2018,0.018505869,0.022768139,0.014613183
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2018,0.043619844,0.051778804,0.037425293
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2018,0.033763092,0.03955673,0.028875232
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2018,0.038751227,0.043280649,0.035046401
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2018,0.036379739,0.043753386,0.030191093
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2018,0.043368555,0.050138407,0.038553755
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2018,0.042215772,0.04817695,0.037044424
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2018,0.049323893,0.056858329,0.043361394
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2018,0.049942093,0.061409561,0.039377988
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2018,0.050240703,0.059551021,0.044090965
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2018,0.054419443,0.063789667,0.045960452
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2018,0.035815094,0.040882876,0.031661853
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2018,0.036334183,0.044269641,0.029685024
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2018,0.035570224,0.041613682,0.03126702
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2018,0.040909796,0.047347229,0.034730865
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2018,0.04256701,0.047282974,0.038598317
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2018,0.046226904,0.054227864,0.039431431
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2018,0.042623486,0.048812853,0.037906772
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2018,0.048990782,0.055412068,0.043184717
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2018,0.05698062,0.060606003,0.053153125
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2018,0.068759265,0.081335287,0.058610408
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2018,0.045258049,0.049464645,0.041799345
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2018,0.070969032,0.076102224,0.064876831
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2018,0.028575575,0.034509588,0.023944721
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2018,0.017204663,0.02236573,0.012446808
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2018,0.036025972,0.045357345,0.029363529
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2018,0.031079666,0.038479346,0.025108012
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2019,0.027632678,0.030799716,0.025252847
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2019,0.033181824,0.03936343,0.027628785
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2019,0.02844616,0.032924639,0.025095442
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2019,0.029002218,0.032918516,0.025524329
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2018,0.027460896,0.031400003,0.024181306
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2018,0.024700036,0.030226682,0.019611099
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2018,0.028213921,0.03324223,0.024330525
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2018,0.031055747,0.036850487,0.026305149
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2018,0.034916386,0.040619132,0.030435061
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2018,0.020790334,0.025437642,0.016091259
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2018,0.044223685,0.052788633,0.037683599
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2018,0.037179055,0.043977413,0.031467434
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2019,0.027546563,0.03327283,0.023126175
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2019,0.016102678,0.02088531,0.011478566
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2019,0.034678329,0.043509494,0.028259728
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2019,0.030041303,0.037223433,0.024473714
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2018,0.043499227,0.049139712,0.038765659
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2018,0.049154335,0.058626116,0.040291011
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2018,0.040040249,0.047521386,0.035269521
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2018,0.051443371,0.059456996,0.044158421
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2018,0.041344657,0.052636062,0.033353619
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2018,0.028431763,0.037801415,0.0187056
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2018,0.049526099,0.065310599,0.03936371
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2018,0.045172685,0.058544419,0.03524987
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2019,0.035250485,0.040205891,0.031241314
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2019,0.035582969,0.042882748,0.028571466
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2019,0.034989747,0.040900329,0.03052144
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2019,0.040248428,0.046574849,0.034139695
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2019,0.033055255,0.03811428,0.029015807
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2019,0.018576509,0.022669465,0.014681755
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2019,0.043416705,0.051834461,0.037026575
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2019,0.03393418,0.039870465,0.029268815
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2018,0.031758693,0.036047413,0.028238572
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2018,0.029938143,0.036351618,0.024387823
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2018,0.032131185,0.037718104,0.028500099
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2018,0.037061673,0.043128063,0.031912519
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2019,0.030945611,0.034959845,0.027591167
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2019,0.031030876,0.03728348,0.025219112
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2019,0.030641866,0.036043989,0.026664554
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2019,0.035899867,0.041365056,0.030891222
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2019,0.038486963,0.042921525,0.034823865
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2019,0.036189116,0.043145871,0.02976226
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2019,0.042710813,0.049705906,0.03757395
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2019,0.042112392,0.048102767,0.036649756
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2018,0.036549328,0.040892426,0.032994905
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2018,0.036559144,0.043065849,0.030886439
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2018,0.033572672,0.039285921,0.029169646
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2018,0.04457677,0.050191929,0.038735989
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2018,0.038289493,0.042813444,0.034581753
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2018,0.034613848,0.041372136,0.028664158
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2018,0.041126098,0.047644544,0.036656117
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2018,0.042003776,0.047691563,0.036715927
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2019,0.048482407,0.055641341,0.042653786
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2019,0.048940437,0.059801054,0.038768144
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2019,0.049196214,0.057865163,0.042769741
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2019,0.053497666,0.062438738,0.045152646
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2019,0.042875715,0.047614539,0.038980183
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2019,0.046514677,0.054652411,0.039232838
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2019,0.042895895,0.049285593,0.038299697
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2019,0.049361119,0.056000058,0.043366981
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2018,0.025690596,0.028806793,0.023011046
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2018,0.021024112,0.025646131,0.016994257
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2018,0.027471559,0.03208141,0.024303132
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2018,0.028398781,0.032905594,0.024618804
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2019,0.043398091,0.04784154,0.039681283
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2019,0.041507101,0.048821166,0.035074108
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2019,0.042120611,0.047690767,0.037594376
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2019,0.050166668,0.055857779,0.044216737
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2019,0.058539827,0.062027858,0.054768575
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2019,0.071031938,0.083389566,0.061445061
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2019,0.045734653,0.049907956,0.042530501
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2019,0.073320842,0.078699401,0.067572811
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2019,0.04920012,0.055253964,0.043741391
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2019,0.054493778,0.065952976,0.043862841
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2019,0.048384515,0.056027574,0.04269903
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2019,0.056333953,0.064231026,0.04834647
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2019,0.047848184,0.060468885,0.036406187
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2019,0.049124756,0.059590612,0.04128313
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2019,0.0539558,0.065495267,0.04443736
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2019,0.032651359,0.040488515,0.0272189
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2019,0.023845953,0.030910898,0.017375349
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2019,0.042588928,0.053760191,0.034032387
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2019,0.038985652,0.049406567,0.031431541
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2019,0.042555348,0.058622746,0.031557693
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2019,0.044716125,0.058939801,0.028578267
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2019,0.043084209,0.06079354,0.031098566
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2019,0.050034487,0.06974371,0.036614313
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2019,0.034932403,0.040563044,0.03049519
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2019,0.020732211,0.025577286,0.016026678
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2019,0.044132326,0.05297196,0.03759183
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2019,0.037275681,0.044147783,0.031519014
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2019,0.043733704,0.049661154,0.039039096
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2019,0.049493231,0.059406883,0.040525143
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2019,0.040336783,0.047779236,0.035171491
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2019,0.051709811,0.059579161,0.044671203
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2019,0.041359235,0.05254721,0.033369398
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2019,0.028097083,0.037317066,0.018872339
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2019,0.04947355,0.065307616,0.039105691
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2019,0.045202687,0.059721256,0.034945153
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2019,0.038660714,0.04345,0.034943083
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2019,0.035012097,0.041878169,0.028711244
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2019,0.041200745,0.047806305,0.03649509
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2019,0.04250207,0.048743917,0.036959152
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2019,0.027118652,0.03109635,0.023910202
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2019,0.02426056,0.029757022,0.01925377
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2019,0.027838061,0.032865218,0.023949639
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2019,0.030765754,0.036587618,0.026240507
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2020,0.038544586,0.044383824,0.034033627
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2020,0.023189152,0.02833071,0.01803647
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2020,0.050380879,0.060252482,0.042648506
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2020,0.039434038,0.046080899,0.034039591
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2020,0.039276257,0.049388305,0.032292423
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2020,0.025986298,0.033896174,0.018517127
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2020,0.047570748,0.060791203,0.038007914
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2020,0.043065917,0.055457384,0.034637857
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2019,0.026181358,0.029309347,0.023592805
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2019,0.021696952,0.02636024,0.017320327
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2019,0.02779561,0.032448791,0.024594767
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2019,0.028988597,0.033543557,0.025128201
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2020,0.032284389,0.039221106,0.027030514
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2020,0.020267677,0.026441175,0.014628057
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2020,0.040470229,0.050755296,0.032815042
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2020,0.035003634,0.043332794,0.028623711
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2020,0.045566464,0.050817311,0.041222666
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2020,0.044496685,0.052807662,0.036630931
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2020,0.050032237,0.058105025,0.043699843
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2020,0.04950312,0.05635898,0.042920761
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2020,0.058740405,0.067584484,0.051738641
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2020,0.061123336,0.074834429,0.047954816
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2020,0.05935901,0.069843888,0.051044145
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2020,0.064328985,0.075186755,0.05424351
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2020,0.050771862,0.055789034,0.046331609
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2020,0.050660453,0.059579355,0.042547985
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2020,0.049368217,0.05576184,0.043315847
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2020,0.058238789,0.065157755,0.050888127
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2020,0.052344169,0.058626391,0.047717241
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2020,0.05864653,0.069486739,0.04878694
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2020,0.052154709,0.060377138,0.045862245
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2020,0.0595469,0.067211289,0.051574511
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2019,0.031956518,0.036385069,0.028399327
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2019,0.03008335,0.036943446,0.024411359
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2019,0.032243429,0.037760834,0.028603133
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2019,0.037260922,0.043428058,0.032192899
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2020,0.071750147,0.076671459,0.066969854
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2020,0.091398386,0.10751565,0.077270035
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2020,0.054900666,0.059715524,0.050325328
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2020,0.089460806,0.096823669,0.082111936
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2020,0.055764957,0.063268745,0.049650134
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2020,0.062306291,0.07493905,0.050464529
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2020,0.054748129,0.063579636,0.047609235
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2020,0.063398944,0.072839674,0.054140728
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2019,0.035594346,0.039914876,0.032084094
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2019,0.03496206,0.041509009,0.029339882
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2019,0.032833446,0.038630708,0.028379678
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2019,0.043505968,0.049500775,0.037946167
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2020,0.030892835,0.034392443,0.028032833
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2020,0.037566761,0.044985581,0.030827239
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2020,0.031394661,0.03655273,0.027343867
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2020,0.032396498,0.03683866,0.028496943
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2020,0.034179009,0.038553266,0.030707759
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2020,0.035277303,0.042173219,0.028501869
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2020,0.033750886,0.039729111,0.029125593
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2020,0.039229263,0.045259342,0.033408583
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2020,0.058079074,0.073003668,0.044479365
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2020,0.05761653,0.070420026,0.047611842
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2020,0.063105471,0.076860605,0.051989658
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2020,0.052562204,0.071652457,0.038711273
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2020,0.056936612,0.075037064,0.035812408
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2020,0.052995394,0.07449368,0.037748182
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2020,0.060969993,0.085071868,0.044134336
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2020,0.039820317,0.045259071,0.035458457
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2020,0.041328877,0.049865518,0.033025939
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2020,0.039412879,0.046395411,0.033988444
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2020,0.045112393,0.051961354,0.038127375
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2020,0.036888437,0.046114399,0.030561576
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2020,0.027516928,0.036155168,0.02018346
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2020,0.04793318,0.059883561,0.037446763
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2020,0.043569172,0.056009017,0.034841107
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2020,0.039706252,0.045775666,0.034878354
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2020,0.025219548,0.031067294,0.019659657
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2020,0.049885377,0.059891385,0.042697402
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2020,0.04219431,0.049687782,0.036110995
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2020,0.048215846,0.061808218,0.038151511
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2020,0.034627841,0.046188861,0.023089466
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2020,0.057246436,0.075875824,0.044070199
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2020,0.05242735,0.069114614,0.04001524
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2020,0.033257744,0.038306856,0.029471647
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2020,0.031752362,0.03830784,0.025158988
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2020,0.034006952,0.040467853,0.028979297
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2020,0.037371939,0.043798791,0.031628272
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2020,0.030286362,0.034406455,0.027310605
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2020,0.026473183,0.032341521,0.021081748
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2020,0.032004163,0.037368524,0.027860402
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2020,0.033246751,0.038672829,0.028844708
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2020,0.041431468,0.046210724,0.03726553
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2020,0.045969551,0.052166168,0.041107962
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2020,0.052573849,0.063280799,0.043199516
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2020,0.042732874,0.050550823,0.036681145
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2020,0.054474968,0.06284096,0.046454707
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2020,0.042888275,0.050292042,0.035615281
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2020,0.03802203,0.044483026,0.03300421
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2020,0.050068299,0.057051208,0.043546846
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2020,0.036417217,0.041598276,0.032348548
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2020,0.0354741,0.04326707,0.028597975
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2020,0.036501109,0.042591016,0.031715516
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2020,0.042116905,0.049126255,0.036095005
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2020,0.046095907,0.051665923,0.041763144
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2020,0.043531225,0.05173439,0.035906734
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2020,0.048713432,0.05711717,0.042335996
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2020,0.050331154,0.057433102,0.043624992
+All Population,Prevalence,Republic of Korea,Both,All ages,Depressive disorders,Percent,2021,0.03139503,0.035032434,0.028407896
+All Population,Prevalence,Republic of Korea,Both,10-19 years,Depressive disorders,Percent,2021,0.037760156,0.044907646,0.030538925
+All Population,Prevalence,Republic of Korea,Both,55+ years,Depressive disorders,Percent,2021,0.031629618,0.036860854,0.027498759
+All Population,Prevalence,Republic of Korea,Both,20-54 years,Depressive disorders,Percent,2021,0.033031284,0.037849794,0.028999426
+All Population,Prevalence,Chile,Both,All ages,Depressive disorders,Percent,2021,0.0542781,0.073152831,0.039910148
+All Population,Prevalence,Chile,Both,10-19 years,Depressive disorders,Percent,2021,0.058340743,0.076115713,0.036694527
+All Population,Prevalence,Chile,Both,55+ years,Depressive disorders,Percent,2021,0.054614365,0.07729027,0.038794858
+All Population,Prevalence,Chile,Both,20-54 years,Depressive disorders,Percent,2021,0.06284508,0.087239969,0.045279737
+All Population,Prevalence,Finland,Both,All ages,Depressive disorders,Percent,2021,0.03371722,0.038105749,0.030255567
+All Population,Prevalence,Finland,Both,10-19 years,Depressive disorders,Percent,2021,0.034504777,0.041331463,0.027492705
+All Population,Prevalence,Finland,Both,55+ years,Depressive disorders,Percent,2021,0.03326098,0.039569598,0.02870169
+All Population,Prevalence,Finland,Both,20-54 years,Depressive disorders,Percent,2021,0.0386583,0.044453502,0.032895664
+All Population,Prevalence,Czechia,Both,All ages,Depressive disorders,Percent,2021,0.041916025,0.052374504,0.034101904
+All Population,Prevalence,Czechia,Both,10-19 years,Depressive disorders,Percent,2021,0.028486551,0.037064013,0.019793702
+All Population,Prevalence,Czechia,Both,55+ years,Depressive disorders,Percent,2021,0.050689768,0.064851716,0.040073376
+All Population,Prevalence,Czechia,Both,20-54 years,Depressive disorders,Percent,2021,0.045942874,0.059572886,0.03671831
+All Population,Prevalence,Germany,Both,All ages,Depressive disorders,Percent,2021,0.050897407,0.056455011,0.046564085
+All Population,Prevalence,Germany,Both,10-19 years,Depressive disorders,Percent,2021,0.050804993,0.05920063,0.042311012
+All Population,Prevalence,Germany,Both,55+ years,Depressive disorders,Percent,2021,0.049632128,0.056866726,0.043378235
+All Population,Prevalence,Germany,Both,20-54 years,Depressive disorders,Percent,2021,0.058376533,0.06555383,0.050581582
+All Population,Prevalence,Slovakia,Both,All ages,Depressive disorders,Percent,2021,0.033088009,0.040240064,0.027678349
+All Population,Prevalence,Slovakia,Both,10-19 years,Depressive disorders,Percent,2021,0.020854253,0.027154634,0.01526863
+All Population,Prevalence,Slovakia,Both,55+ years,Depressive disorders,Percent,2021,0.041439814,0.051965573,0.033378428
+All Population,Prevalence,Slovakia,Both,20-54 years,Depressive disorders,Percent,2021,0.035893976,0.044922745,0.029085325
+All Population,Prevalence,Iceland,Both,All ages,Depressive disorders,Percent,2021,0.057617855,0.065329347,0.051385683
+All Population,Prevalence,Iceland,Both,10-19 years,Depressive disorders,Percent,2021,0.063938592,0.076509736,0.051988176
+All Population,Prevalence,Iceland,Both,55+ years,Depressive disorders,Percent,2021,0.05645432,0.066012893,0.04866619
+All Population,Prevalence,Iceland,Both,20-54 years,Depressive disorders,Percent,2021,0.06553585,0.075442008,0.055923285
+All Population,Prevalence,Israel,Both,10-19 years,Depressive disorders,Percent,2021,0.059003889,0.073594904,0.045471996
+All Population,Prevalence,Israel,Both,55+ years,Depressive disorders,Percent,2021,0.058542257,0.071143701,0.048263766
+All Population,Prevalence,Israel,Both,20-54 years,Depressive disorders,Percent,2021,0.064334551,0.078692747,0.053147064
+All Population,Prevalence,Hungary,Both,All ages,Depressive disorders,Percent,2021,0.03942628,0.045320993,0.034667924
+All Population,Prevalence,Hungary,Both,10-19 years,Depressive disorders,Percent,2021,0.023940606,0.028917774,0.018925453
+All Population,Prevalence,Hungary,Both,55+ years,Depressive disorders,Percent,2021,0.051349781,0.061565446,0.043209337
+All Population,Prevalence,Hungary,Both,20-54 years,Depressive disorders,Percent,2021,0.040475241,0.047375449,0.034748593
+All Population,Prevalence,Costa Rica,Both,All ages,Depressive disorders,Percent,2021,0.038457509,0.047860876,0.031630508
+All Population,Prevalence,Costa Rica,Both,10-19 years,Depressive disorders,Percent,2021,0.028461011,0.036836818,0.020853778
+All Population,Prevalence,Costa Rica,Both,55+ years,Depressive disorders,Percent,2021,0.049681928,0.062724332,0.039148939
+All Population,Prevalence,Costa Rica,Both,20-54 years,Depressive disorders,Percent,2021,0.045225547,0.057443308,0.036516637
+All Population,Prevalence,Denmark,Both,All ages,Depressive disorders,Percent,2021,0.039135309,0.044563937,0.034777608
+All Population,Prevalence,Denmark,Both,10-19 years,Depressive disorders,Percent,2021,0.040272434,0.048429693,0.03228586
+All Population,Prevalence,Denmark,Both,55+ years,Depressive disorders,Percent,2021,0.038739191,0.045764179,0.033308864
+All Population,Prevalence,Denmark,Both,20-54 years,Depressive disorders,Percent,2021,0.04439375,0.051251964,0.037524476
+All Population,Prevalence,France,Both,All ages,Depressive disorders,Percent,2021,0.045925786,0.051265101,0.041515035
+All Population,Prevalence,France,Both,10-19 years,Depressive disorders,Percent,2021,0.044763713,0.053065463,0.03609757
+All Population,Prevalence,France,Both,55+ years,Depressive disorders,Percent,2021,0.05011438,0.058628983,0.043524909
+All Population,Prevalence,France,Both,20-54 years,Depressive disorders,Percent,2021,0.050055198,0.057225327,0.043593406
+All Population,Prevalence,Estonia,Both,All ages,Depressive disorders,Percent,2021,0.04068224,0.046995275,0.035683362
+All Population,Prevalence,Estonia,Both,10-19 years,Depressive disorders,Percent,2021,0.02600826,0.031918372,0.020553346
+All Population,Prevalence,Estonia,Both,55+ years,Depressive disorders,Percent,2021,0.051022701,0.061485875,0.043565926
+All Population,Prevalence,Estonia,Both,20-54 years,Depressive disorders,Percent,2021,0.0432746,0.050999445,0.036773785
+All Population,Prevalence,Australia,Both,All ages,Depressive disorders,Percent,2021,0.046290077,0.052631586,0.041444046
+All Population,Prevalence,Australia,Both,10-19 years,Depressive disorders,Percent,2021,0.05275256,0.063368587,0.043250264
+All Population,Prevalence,Australia,Both,55+ years,Depressive disorders,Percent,2021,0.043071893,0.050891056,0.036493983
+All Population,Prevalence,Australia,Both,20-54 years,Depressive disorders,Percent,2021,0.054847058,0.063466145,0.046845282
+All Population,Prevalence,Spain,Both,All ages,Depressive disorders,Percent,2021,0.047269068,0.053022009,0.042651616
+All Population,Prevalence,Spain,Both,10-19 years,Depressive disorders,Percent,2021,0.044889368,0.05309922,0.03653203
+All Population,Prevalence,Spain,Both,55+ years,Depressive disorders,Percent,2021,0.049536746,0.058072422,0.042413252
+All Population,Prevalence,Spain,Both,20-54 years,Depressive disorders,Percent,2021,0.051647726,0.059103348,0.044667016
+All Population,Prevalence,Greece,Both,All ages,Depressive disorders,Percent,2021,0.058639669,0.06770289,0.051426743
+All Population,Prevalence,Greece,Both,10-19 years,Depressive disorders,Percent,2021,0.060668221,0.073999561,0.047785972
+All Population,Prevalence,Greece,Both,55+ years,Depressive disorders,Percent,2021,0.059174335,0.06912735,0.050508265
+All Population,Prevalence,Greece,Both,20-54 years,Depressive disorders,Percent,2021,0.064331921,0.075346198,0.054166861
+All Population,Prevalence,Lithuania,Both,All ages,Depressive disorders,Percent,2021,0.049372219,0.063159591,0.038832744
+All Population,Prevalence,Lithuania,Both,10-19 years,Depressive disorders,Percent,2021,0.035176527,0.046150136,0.023385867
+All Population,Prevalence,Lithuania,Both,55+ years,Depressive disorders,Percent,2021,0.058364578,0.077893439,0.044982792
+All Population,Prevalence,Lithuania,Both,20-54 years,Depressive disorders,Percent,2021,0.053521793,0.070976865,0.040897464
+All Population,Prevalence,Austria,Both,All ages,Depressive disorders,Percent,2021,0.032834111,0.037811103,0.029078828
+All Population,Prevalence,Austria,Both,10-19 years,Depressive disorders,Percent,2021,0.031199353,0.037783865,0.024642022
+All Population,Prevalence,Austria,Both,55+ years,Depressive disorders,Percent,2021,0.033511556,0.039847902,0.028382277
+All Population,Prevalence,Austria,Both,20-54 years,Depressive disorders,Percent,2021,0.03697879,0.04339743,0.031252676
+All Population,Prevalence,Sweden,Both,All ages,Depressive disorders,Percent,2021,0.048390471,0.054080794,0.044006958
+All Population,Prevalence,Sweden,Both,10-19 years,Depressive disorders,Percent,2021,0.053287458,0.062231778,0.044009471
+All Population,Prevalence,Sweden,Both,55+ years,Depressive disorders,Percent,2021,0.048173995,0.055720288,0.04193844
+All Population,Prevalence,Sweden,Both,20-54 years,Depressive disorders,Percent,2021,0.05527546,0.062980954,0.047654258
+All Population,Prevalence,United Kingdom,Both,All ages,Depressive disorders,Percent,2021,0.071480403,0.07648475,0.066765228
+All Population,Prevalence,United Kingdom,Both,10-19 years,Depressive disorders,Percent,2021,0.08957218,0.105330279,0.076325789
+All Population,Prevalence,United Kingdom,Both,55+ years,Depressive disorders,Percent,2021,0.055147762,0.06006674,0.050156527
+All Population,Prevalence,United Kingdom,Both,20-54 years,Depressive disorders,Percent,2021,0.089355493,0.096876289,0.081824752
+All Population,Prevalence,Italy,Both,All ages,Depressive disorders,Percent,2021,0.029765418,0.033653885,0.026734106
+All Population,Prevalence,Italy,Both,10-19 years,Depressive disorders,Percent,2021,0.025795711,0.031471066,0.020454369
+All Population,Prevalence,Italy,Both,55+ years,Depressive disorders,Percent,2021,0.031268293,0.036595535,0.026945464
+All Population,Prevalence,Italy,Both,20-54 years,Depressive disorders,Percent,2021,0.032784331,0.03821693,0.028375061
+All Population,Prevalence,Canada,Both,All ages,Depressive disorders,Percent,2021,0.041165394,0.046125911,0.036942165
+All Population,Prevalence,Canada,Both,10-19 years,Depressive disorders,Percent,2021,0.04220147,0.049734403,0.03487788
+All Population,Prevalence,Canada,Both,55+ years,Depressive disorders,Percent,2021,0.037836503,0.044610225,0.032786857
+All Population,Prevalence,Canada,Both,20-54 years,Depressive disorders,Percent,2021,0.049770101,0.056650515,0.042999892
+All Population,Prevalence,Norway,Both,All ages,Depressive disorders,Percent,2021,0.036935136,0.042189794,0.032892902
+All Population,Prevalence,Norway,Both,10-19 years,Depressive disorders,Percent,2021,0.035867978,0.043743905,0.028773359
+All Population,Prevalence,Norway,Both,55+ years,Depressive disorders,Percent,2021,0.036925888,0.042991079,0.03190284
+All Population,Prevalence,Norway,Both,20-54 years,Depressive disorders,Percent,2021,0.04266481,0.049768238,0.036437289
